@@ -1,0 +1,2221 @@
+{
+  "A Park": {
+    "title": "A Park",
+    "url": "https://www.portland.gov/parks/park",
+    "location": "SW 21st Avenue and Capitol Hill Road Portland, OR 97219",
+    "neighborhood": "Multnomah",
+    "city_section": "SW"
+  },
+  "Adams Community Garden": {
+    "title": "Adams Community Garden",
+    "url": "https://www.portland.gov/parks/adams-community-garden",
+    "location": "4300 NW Cornell Road Portland, OR 97210",
+    "neighborhood": "Hillside",
+    "city_section": "NW"
+  },
+  "Albert Kelly Park": {
+    "title": "Albert Kelly Park",
+    "url": "https://www.portland.gov/parks/albert-kelly-park",
+    "location": "SW Dosch Road and Mitchell Street Portland, OR 97221",
+    "neighborhood": "Hillsdale",
+    "city_section": "SW"
+  },
+  "Alberta Park": {
+    "title": "Alberta Park",
+    "url": "https://www.portland.gov/parks/alberta-park",
+    "location": "NE 22nd Avenue and Killingsworth Street Portland, OR 97211",
+    "neighborhood": "Vernon",
+    "city_section": "NE"
+  },
+  "Alex Rovello Memorial Courts": {
+    "title": "Alex Rovello Memorial Courts",
+    "url": "https://www.portland.gov/parks/alex-rovello-memorial-courts",
+    "location": "SE C\u00e9sar E. Ch\u00e1vez Blvd. and Bybee Blvd. Portland, OR 97202",
+    "neighborhood": "Eastmoreland",
+    "city_section": "SE"
+  },
+  "Alice Ott SUN Community School": {
+    "title": "Alice Ott SUN Community School",
+    "url": "https://www.portland.gov/parks/alice-ott-sun-community-school",
+    "location": "12500 SE Ramona Street Portland, OR 97236",
+    "neighborhood": "Pleasant Valley",
+    "city_section": "SE"
+  },
+  "Ankeny Plaza": {
+    "title": "Ankeny Plaza",
+    "url": "https://www.portland.gov/parks/ankeny-plaza",
+    "location": "SW Naito Parkway and Ankeny Street Portland, OR 97204",
+    "neighborhood": "Old Town",
+    "city_section": "Downtown"
+  },
+  "April Hill Park": {
+    "title": "April Hill Park",
+    "url": "https://www.portland.gov/parks/april-hill-park",
+    "location": "SW 58th Avenue and Miles Street Portland, OR 97219",
+    "neighborhood": "Maplewood",
+    "city_section": "SW"
+  },
+  "Arbor Lodge Park": {
+    "title": "Arbor Lodge Park",
+    "url": "https://www.portland.gov/parks/arbor-lodge-park",
+    "location": "N Bryant Street and Delaware Avenue Portland, OR 97217",
+    "neighborhood": "Arbor Lodge",
+    "city_section": "North"
+  },
+  "Argay Park": {
+    "title": "Argay Park",
+    "url": "https://www.portland.gov/parks/argay-park",
+    "location": "NE 141st Avenue and Failing Street Portland, OR 97230",
+    "neighborhood": "Argay Terrace",
+    "city_section": "East"
+  },
+  "Arleta SUN Community School": {
+    "title": "Arleta SUN Community School",
+    "url": "https://www.portland.gov/parks/arleta-sun-community-school",
+    "location": "5109 SE 66th Avenue Portland, OR 97206",
+    "neighborhood": "Mt. Scott-Arleta",
+    "city_section": "SE"
+  },
+  "Arnold Creek Natural Area": {
+    "title": "Arnold Creek Natural Area",
+    "url": "https://www.portland.gov/parks/arnold-creek-natural-area",
+    "location": "SW 11th Drive and Arnold Street Portland, OR 97219",
+    "neighborhood": "Arnold Creek",
+    "city_section": "SW"
+  },
+  "Beach Community Garden": {
+    "title": "Beach Community Garden",
+    "url": "https://www.portland.gov/parks/beach-community-garden",
+    "location": "4629 N Campbell Avenue Portland, OR 97217",
+    "neighborhood": "Overlook",
+    "city_section": "North"
+  },
+  "Beaumont SUN Community School": {
+    "title": "Beaumont SUN Community School",
+    "url": "https://www.portland.gov/parks/beaumont-sun-community-school",
+    "location": "4043 NE Fremont Street Portland, OR 97212",
+    "neighborhood": "Beaumont-Wilshire",
+    "city_section": "NE"
+  },
+  "Berkeley Park": {
+    "title": "Berkeley Park",
+    "url": "https://www.portland.gov/parks/berkeley-park",
+    "location": "SE C\u00e9sar E. Ch\u00e1vez Blvd. and Bybee Blvd. Portland, OR 97202",
+    "neighborhood": "Eastmoreland",
+    "city_section": "SE"
+  },
+  "Berrydale Community Garden": {
+    "title": "Berrydale Community Garden",
+    "url": "https://www.portland.gov/parks/berrydale-community-garden",
+    "location": "9004 SE Taylor Street Portland, OR 97216",
+    "neighborhood": "Montavilla",
+    "city_section": "SE"
+  },
+  "Berrydale Park": {
+    "title": "Berrydale Park",
+    "url": "https://www.portland.gov/parks/berrydale-park",
+    "location": "SE 92nd Avenue and Taylor Street Portland, OR 97216",
+    "neighborhood": "Montavilla",
+    "city_section": "SE"
+  },
+  "Blair Community Garden": {
+    "title": "Blair Community Garden",
+    "url": "https://www.portland.gov/parks/blair-community-garden",
+    "location": "3235 SE Alder Court Portland, OR 97214",
+    "neighborhood": "Sunnyside",
+    "city_section": "SE"
+  },
+  "Bloomington Park": {
+    "title": "Bloomington Park",
+    "url": "https://www.portland.gov/parks/bloomington-park",
+    "location": "SE 100th Avenue and Steele Street Portland, OR 97266",
+    "neighborhood": "Lents",
+    "city_section": "East"
+  },
+  "Brentwood Community Garden": {
+    "title": "Brentwood Community Garden",
+    "url": "https://www.portland.gov/parks/brentwood-community-garden",
+    "location": "SE 57th Avenue and Bybee Blvd Portland, OR 97206",
+    "neighborhood": "Brentwood-Darlington",
+    "city_section": "SE"
+  },
+  "Brentwood Park": {
+    "title": "Brentwood Park",
+    "url": "https://www.portland.gov/parks/brentwood-park",
+    "location": "SE 60th Avenue and Duke Street Portland, OR 97206",
+    "neighborhood": "Brentwood-Darlington",
+    "city_section": "SE"
+  },
+  "Brooklyn Park": {
+    "title": "Brooklyn Park",
+    "url": "https://www.portland.gov/parks/brooklyn-park",
+    "location": "SE 10th Avenue and Haig Street Portland, OR 97202",
+    "neighborhood": "Brooklyn",
+    "city_section": "SE"
+  },
+  "Brooklyn School Park": {
+    "title": "Brooklyn School Park",
+    "url": "https://www.portland.gov/parks/brooklyn-school-park",
+    "location": "SE 15th Avenue and Bush Street Portland, OR 97202",
+    "neighborhood": "Brooklyn",
+    "city_section": "SE"
+  },
+  "Buckman Community Garden": {
+    "title": "Buckman Community Garden",
+    "url": "https://www.portland.gov/parks/buckman-community-garden",
+    "location": "SE 18th Avenue and Oak Street Portland, OR 97214",
+    "neighborhood": "Buckman",
+    "city_section": "SE"
+  },
+  "Buckman Field Park": {
+    "title": "Buckman Field Park",
+    "url": "https://www.portland.gov/parks/buckman-field-park",
+    "location": "NE 12th Avenue and Everett Street Portland, OR 97232",
+    "neighborhood": "Kerns",
+    "city_section": "NE"
+  },
+  "Burlingame Park": {
+    "title": "Burlingame Park",
+    "url": "https://www.portland.gov/parks/burlingame-park",
+    "location": "SW 12th Avenue and Falcon Street Portland, OR 97219",
+    "neighborhood": "South Burlingame",
+    "city_section": "SW"
+  },
+  "Butterfly Park Naturescape": {
+    "title": "Butterfly Park Naturescape",
+    "url": "https://www.portland.gov/parks/butterfly-park-naturescape",
+    "location": "7720 S Macadam Ave. Portland, OR",
+    "neighborhood": "South Portland",
+    "city_section": "SW"
+  },
+  "Carnegie Annex at Lair Hill Park": {
+    "title": "Carnegie Annex at Lair Hill Park",
+    "url": "https://www.portland.gov/parks/carnegie-annex-lair-hill-park",
+    "location": "3037 SW 2nd Avenue Portland, OR 97201",
+    "neighborhood": "South Portland",
+    "city_section": "Downtown"
+  },
+  "Cathedral Park": {
+    "title": "Cathedral Park",
+    "url": "https://www.portland.gov/parks/cathedral-park",
+    "location": "N Edison Street and Pittsburg Avenue Portland, OR 97203",
+    "neighborhood": "St. Johns",
+    "city_section": "North"
+  },
+  "Centennial Park Community Garden": {
+    "title": "Centennial Park Community Garden",
+    "url": "https://www.portland.gov/parks/centennial-park-community-garden",
+    "location": "17630 SE Main Street Portland, OR 97233",
+    "neighborhood": "Centennial",
+    "city_section": "East"
+  },
+  "Centennial SUN Community School": {
+    "title": "Centennial SUN Community School",
+    "url": "https://www.portland.gov/parks/centennial-sun-community-school",
+    "location": "17650 SE Brooklyn Street Portland, OR 97236",
+    "neighborhood": "Centennial",
+    "city_section": "SE"
+  },
+  "Cesar Chavez Community Garden": {
+    "title": "Cesar Chavez Community Garden",
+    "url": "https://www.portland.gov/parks/cesar-chavez-community-garden",
+    "location": "SE C\u00e9sar E. Ch\u00e1vez Blvd. and Ellis Street Portland, OR 97202",
+    "neighborhood": "Woodstock",
+    "city_section": "SE"
+  },
+  "Chapman Square": {
+    "title": "Chapman Square",
+    "url": "https://www.portland.gov/parks/chapman-square",
+    "location": "SW 4th Avenue and Main Street Portland, OR 97205",
+    "neighborhood": "Portland Downtown",
+    "city_section": "Downtown"
+  },
+  "Charles Jordan Community Center": {
+    "title": "Charles Jordan Community Center",
+    "url": "https://www.portland.gov/parks/charles-jordan-community-center",
+    "location": "9009 N Foss Avenue Portland, OR 97217",
+    "neighborhood": "University Park",
+    "city_section": "North"
+  },
+  "Cherry Blossom Park": {
+    "title": "Cherry Blossom Park",
+    "url": "https://www.portland.gov/parks/cherry-blossom-park",
+    "location": "SE 98th Avenue and Stephens Street Portland, OR 97216",
+    "neighborhood": "Hazelwood",
+    "city_section": "East"
+  },
+  "Cherry Park": {
+    "title": "Cherry Park",
+    "url": "https://www.portland.gov/parks/cherry-park",
+    "location": "SE 110th Avenue and Stephens Street Portland, OR 97216",
+    "neighborhood": "Hazelwood",
+    "city_section": "East"
+  },
+  "Chimney Park": {
+    "title": "Chimney Park",
+    "url": "https://www.portland.gov/parks/chimney-park",
+    "location": "9360 N Columbia Blvd Portland, OR 97203",
+    "neighborhood": "St. Johns",
+    "city_section": "North"
+  },
+  "Clarendon Community Garden": {
+    "title": "Clarendon Community Garden",
+    "url": "https://www.portland.gov/parks/clarendon-community-garden",
+    "location": "9235 N Van Houten Avenue Portland, OR 97203",
+    "neighborhood": "Portsmouth",
+    "city_section": "North"
+  },
+  "Clatsop Butte Park": {
+    "title": "Clatsop Butte Park",
+    "url": "https://www.portland.gov/parks/clatsop-butte-park",
+    "location": "SE 152nd Avenue and Belmore Street Portland, OR 97236",
+    "neighborhood": "Pleasant Valley",
+    "city_section": "East"
+  },
+  "Clinton Community Garden": {
+    "title": "Clinton Community Garden",
+    "url": "https://www.portland.gov/parks/clinton-community-garden",
+    "location": "SE 18th Avenue and Clinton Street Portland, OR 97214",
+    "neighborhood": "Hosford-Abernethy",
+    "city_section": "SE"
+  },
+  "Clinton Park": {
+    "title": "Clinton Park",
+    "url": "https://www.portland.gov/parks/clinton-park",
+    "location": "SE 55th Avenue and Woodward Street Portland, OR 97206",
+    "neighborhood": "South Tabor",
+    "city_section": "SE"
+  },
+  "Colonel Summers Community Garden": {
+    "title": "Colonel Summers Community Garden",
+    "url": "https://www.portland.gov/parks/colonel-summers-community-garden",
+    "location": "SE 20th Avenue and Taylor Street Portland, OR 97214",
+    "neighborhood": "Buckman",
+    "city_section": "SE"
+  },
+  "Colonel Summers Park": {
+    "title": "Colonel Summers Park",
+    "url": "https://www.portland.gov/parks/colonel-summers-park",
+    "location": "SE 17th Avenue and Taylor Street Portland, OR 97214",
+    "neighborhood": "Buckman",
+    "city_section": "SE"
+  },
+  "Columbia Children's Arboretum": {
+    "title": "Columbia Children's Arboretum",
+    "url": "https://www.portland.gov/parks/columbia-childrens-arboretum",
+    "location": "10040 NE 6th Drive Portland, OR 97211",
+    "neighborhood": "East Columbia",
+    "city_section": "NE"
+  },
+  "Columbia Park and Annex": {
+    "title": "Columbia Park and Annex",
+    "url": "https://www.portland.gov/parks/columbia-park-and-annex",
+    "location": "N Lombard Street and Woolsey Avenue Portland, OR 97203",
+    "neighborhood": "Portsmouth",
+    "city_section": "North"
+  },
+  "Columbia Slough Natural Area": {
+    "title": "Columbia Slough Natural Area",
+    "url": "https://www.portland.gov/parks/columbia-slough-natural-area",
+    "location": "11140 NE Simpson Street Portland, OR 97220",
+    "neighborhood": "Parkrose",
+    "city_section": "East"
+  },
+  "Colwood Golf Center": {
+    "title": "Colwood Golf Center",
+    "url": "https://www.portland.gov/parks/colwood-golf-center",
+    "location": "7313 NE Columbia Blvd Portland, OR 97218",
+    "neighborhood": "Cully",
+    "city_section": "NE"
+  },
+  "Community Music Center": {
+    "title": "Community Music Center",
+    "url": "https://www.portland.gov/parks/community-music-center",
+    "location": "3350 SE Francis Street Portland, OR 97202",
+    "neighborhood": "Creston-Kenilworth",
+    "city_section": "SE"
+  },
+  "Cottonwood Bay Natural Area": {
+    "title": "Cottonwood Bay Natural Area",
+    "url": "https://www.portland.gov/parks/cottonwood-bay-natural-area",
+    "location": "470 S Hamilton Ct. (off Landing Drive) Portland, OR 97239",
+    "neighborhood": "South Portland",
+    "city_section": null
+  },
+  "Couch Park": {
+    "title": "Couch Park",
+    "url": "https://www.portland.gov/parks/couch-park",
+    "location": "NW 19th Avenue and Glisan Street Portland, OR 97209",
+    "neighborhood": "Pearl District",
+    "city_section": "Downtown"
+  },
+  "Council Crest Park": {
+    "title": "Council Crest Park",
+    "url": "https://www.portland.gov/parks/council-crest-park",
+    "location": "SW Council Crest Drive Portland, OR 97201",
+    "neighborhood": "Southwest Hills",
+    "city_section": "SW"
+  },
+  "Creston Outdoor Pool": {
+    "title": "Creston Outdoor Pool",
+    "url": "https://www.portland.gov/parks/creston-outdoor-pool",
+    "location": "SE 44th Avenue and Powell Blvd Portland, OR 97206",
+    "neighborhood": "Creston-Kenilworth",
+    "city_section": "SE"
+  },
+  "Creston Park": {
+    "title": "Creston Park",
+    "url": "https://www.portland.gov/parks/creston-park",
+    "location": "SE 44th Avenue and Powell Blvd Portland, OR 97206",
+    "neighborhood": "Creston-Kenilworth",
+    "city_section": "SE"
+  },
+  "Crossroads Community Garden": {
+    "title": "Crossroads Community Garden",
+    "url": "https://www.portland.gov/parks/crossroads-community-garden",
+    "location": "6948 SW Capitol Highway Portland, OR 97219",
+    "neighborhood": "Multnomah",
+    "city_section": "SW"
+  },
+  "Crystal Springs Rhododendron Garden": {
+    "title": "Crystal Springs Rhododendron Garden",
+    "url": "https://www.portland.gov/parks/crystal-springs-rhododendron-garden",
+    "location": "5801 SE 28th Avenue Portland, OR 97202",
+    "neighborhood": "Eastmoreland",
+    "city_section": "SE"
+  },
+  "Cully Park": {
+    "title": "Cully Park",
+    "url": "https://www.portland.gov/parks/cully-park",
+    "location": "5810 NE 72nd Ave Portland, OR 97218",
+    "neighborhood": "Cully",
+    "city_section": "NE"
+  },
+  "Darcelle XV Plaza": {
+    "title": "Darcelle XV Plaza",
+    "url": "https://www.portland.gov/parks/darcelle-xv-plaza",
+    "location": "SW Park Avenue and Washington Street Portland, OR 97205",
+    "neighborhood": "Portland Downtown",
+    "city_section": "Downtown"
+  },
+  "David Douglas Community Garden": {
+    "title": "David Douglas Community Garden",
+    "url": "https://www.portland.gov/parks/david-douglas-community-garden",
+    "location": "1400 SE 130th Avenue Portland, OR 97233",
+    "neighborhood": "Hazelwood",
+    "city_section": "East"
+  },
+  "Dawson Park": {
+    "title": "Dawson Park",
+    "url": "https://www.portland.gov/parks/dawson-park",
+    "location": "N Stanton Street and Williams Avenue Portland, OR 97227",
+    "neighborhood": "Eliot",
+    "city_section": "NE"
+  },
+  "Delta Park": {
+    "title": "Delta Park",
+    "url": "https://www.portland.gov/parks/delta-park",
+    "location": "N Denver Avenue and Martin Luther King Jr Blvd Portland, OR 97217",
+    "neighborhood": "East Columbia",
+    "city_section": "North"
+  },
+  "Delta Park - Owens Sports Complex": {
+    "title": "Delta Park - Owens Sports Complex",
+    "url": "https://www.portland.gov/parks/delta-park-owens-sports-complex",
+    "location": "10737 N Union Court Portland, OR 97217",
+    "neighborhood": "East Columbia",
+    "city_section": "North"
+  },
+  "DeWitt Park": {
+    "title": "DeWitt Park",
+    "url": "https://www.portland.gov/parks/dewitt-park",
+    "location": "1805 SW DeWitt Street Portland, OR 97239",
+    "neighborhood": "Hillsdale",
+    "city_section": "SW"
+  },
+  "Dickinson Park": {
+    "title": "Dickinson Park",
+    "url": "https://www.portland.gov/parks/dickinson-park",
+    "location": "SW 55th Avenue and Alfred Court Portland, OR 97219",
+    "neighborhood": "Crestwood",
+    "city_section": "SW"
+  },
+  "Director Park": {
+    "title": "Director Park",
+    "url": "https://www.portland.gov/parks/director-park",
+    "location": "815 SW Park Avenue Portland, OR 97205",
+    "neighborhood": "Portland Downtown",
+    "city_section": "Downtown"
+  },
+  "Dr. Martin Luther King, Jr. School Park": {
+    "title": "Dr. Martin Luther King, Jr. School Park",
+    "url": "https://www.portland.gov/parks/dr-martin-luther-king-jr-school-park",
+    "location": "NE 6th Avenue and Humboldt Street Portland, OR 97211",
+    "neighborhood": "King",
+    "city_section": "NE"
+  },
+  "Duniway Park": {
+    "title": "Duniway Park",
+    "url": "https://www.portland.gov/parks/duniway-park",
+    "location": "SW 6th Avenue and Sheridan Street Portland, OR 97201",
+    "neighborhood": "Homestead",
+    "city_section": "Downtown"
+  },
+  "Earl Boyles Community Garden": {
+    "title": "Earl Boyles Community Garden",
+    "url": "https://www.portland.gov/parks/earl-boyles-community-garden",
+    "location": "SE 110th Avenue and Francis Street Portland, OR 97266",
+    "neighborhood": "Lents",
+    "city_section": "East"
+  },
+  "Earl Boyles Park": {
+    "title": "Earl Boyles Park",
+    "url": "https://www.portland.gov/parks/earl-boyles-park",
+    "location": "east of SE 107th Avenue and Francis Street Portland, OR 97266",
+    "neighborhood": "Lents",
+    "city_section": "East"
+  },
+  "East Holladay Park": {
+    "title": "East Holladay Park",
+    "url": "https://www.portland.gov/parks/east-holladay-park",
+    "location": "12999 NE Holladay Street Portland, OR 97230",
+    "neighborhood": "Hazelwood",
+    "city_section": "East"
+  },
+  "East Portland Community Center": {
+    "title": "East Portland Community Center",
+    "url": "https://www.portland.gov/parks/east-portland-community-center",
+    "location": "740 SE 106th Avenue Portland, OR 97216",
+    "neighborhood": "Mill Park",
+    "city_section": "East"
+  },
+  "East Portland Indoor Pool": {
+    "title": "East Portland Indoor Pool",
+    "url": "https://www.portland.gov/parks/east-portland-indoor-pool",
+    "location": "740 SE 106th Avenue Portland, OR 97216",
+    "neighborhood": "Mill Park",
+    "city_section": "East"
+  },
+  "Eastbank Esplanade": {
+    "title": "Eastbank Esplanade",
+    "url": "https://www.portland.gov/parks/eastbank-esplanade",
+    "location": "SE Hawthorne Ave and SE Water St Portland, OR 97204",
+    "neighborhood": "Buckman",
+    "city_section": "SE"
+  },
+  "Eastminster Community Garden": {
+    "title": "Eastminster Community Garden",
+    "url": "https://www.portland.gov/parks/eastminster-community-garden",
+    "location": "12505 NE Halsey Street Portland, OR 97230",
+    "neighborhood": "Russell",
+    "city_section": "East"
+  },
+  "Eastmoreland Garden": {
+    "title": "Eastmoreland Garden",
+    "url": "https://www.portland.gov/parks/eastmoreland-garden",
+    "location": "2425 SE Bybee Blvd Portland, OR 97202",
+    "neighborhood": "Eastmoreland",
+    "city_section": "SE"
+  },
+  "Eastmoreland Golf Course": {
+    "title": "Eastmoreland Golf Course",
+    "url": "https://www.portland.gov/parks/eastmoreland-golf-course",
+    "location": "2425 SE Bybee Blvd Portland, OR 97202",
+    "neighborhood": "Eastmoreland",
+    "city_section": "SE"
+  },
+  "Eastmoreland Playground Park": {
+    "title": "Eastmoreland Playground Park",
+    "url": "https://www.portland.gov/parks/eastmoreland-playground-park",
+    "location": "SE 30th Avenue and Crystal Springs Blvd Portland, OR 97202",
+    "neighborhood": "Eastmoreland",
+    "city_section": "SE"
+  },
+  "Eastridge Park": {
+    "title": "Eastridge Park",
+    "url": "https://www.portland.gov/parks/eastridge-park",
+    "location": "SE 141st Avenue and Crystal Springs Street Portland, OR 97236",
+    "neighborhood": "Pleasant Valley",
+    "city_section": "East"
+  },
+  "Ed Benedict Community Garden": {
+    "title": "Ed Benedict Community Garden",
+    "url": "https://www.portland.gov/parks/ed-benedict-community-garden",
+    "location": "10441 SE Bush Street Portland, OR 97266",
+    "neighborhood": "Lents",
+    "city_section": "East"
+  },
+  "Ed Benedict Park": {
+    "title": "Ed Benedict Park",
+    "url": "https://www.portland.gov/parks/ed-benedict-park",
+    "location": "SE 100th Avenue and Powell Blvd Portland, OR 97266",
+    "neighborhood": "Lents",
+    "city_section": "East"
+  },
+  "Elizabeth Caruthers Park": {
+    "title": "Elizabeth Caruthers Park",
+    "url": "https://www.portland.gov/parks/elizabeth-caruthers-park",
+    "location": "3508 S Moody Avenue Portland, OR 97239",
+    "neighborhood": "South Portland",
+    "city_section": "SW"
+  },
+  "Errol Heights Community Garden": {
+    "title": "Errol Heights Community Garden",
+    "url": "https://www.portland.gov/parks/errol-heights-community-garden",
+    "location": "4841 SE Tenino Court Portland, OR 97206",
+    "neighborhood": "Brentwood-Darlington",
+    "city_section": "SE"
+  },
+  "Errol Heights Park": {
+    "title": "Errol Heights Park",
+    "url": "https://www.portland.gov/parks/errol-heights-park",
+    "location": "SE 52nd Avenue and Tenino Street Portland, OR 97206",
+    "neighborhood": "Southeast",
+    "city_section": null
+  },
+  "Essex Park": {
+    "title": "Essex Park",
+    "url": "https://www.portland.gov/parks/essex-park",
+    "location": "SE 79th Avenue and Center Street Portland, OR 97206",
+    "neighborhood": "Foster-Powell",
+    "city_section": "SE"
+  },
+  "Everett Community Garden": {
+    "title": "Everett Community Garden",
+    "url": "https://www.portland.gov/parks/everett-community-garden",
+    "location": "2698 NE Everett Street Portland, OR 97232",
+    "neighborhood": "Kerns",
+    "city_section": "NE"
+  },
+  "Fanno Creek Natural Area": {
+    "title": "Fanno Creek Natural Area",
+    "url": "https://www.portland.gov/parks/fanno-creek-natural-area",
+    "location": "SW 59th Avenue and Hamilton Street Portland, OR 97221",
+    "neighborhood": "Bridlemile",
+    "city_section": "SW"
+  },
+  "Farragut Park": {
+    "title": "Farragut Park",
+    "url": "https://www.portland.gov/parks/farragut-park",
+    "location": "N Kerby Avenue and Farragut Street Portland, OR 97217",
+    "neighborhood": "Piedmont",
+    "city_section": "North"
+  },
+  "Faubion SUN Community School": {
+    "title": "Faubion SUN Community School",
+    "url": "https://www.portland.gov/parks/faubion-sun-community-school",
+    "location": "2930 NE Dekum Street Portland, OR 97211",
+    "neighborhood": "Concordia",
+    "city_section": "NE"
+  },
+  "Fernhill Park": {
+    "title": "Fernhill Park",
+    "url": "https://www.portland.gov/parks/fernhill-park",
+    "location": "NE 37th Avenue and Ainsworth Street Portland, OR 97211",
+    "neighborhood": "Concordia",
+    "city_section": "NE"
+  },
+  "Flavel Park": {
+    "title": "Flavel Park",
+    "url": "https://www.portland.gov/parks/flavel-park",
+    "location": "SE 75th Avenue and Flavel Street Portland, OR 97206",
+    "neighborhood": "Brentwood-Darlington",
+    "city_section": "SE"
+  },
+  "Floyd Light Community Garden": {
+    "title": "Floyd Light Community Garden",
+    "url": "https://www.portland.gov/parks/floyd-light-community-garden",
+    "location": "599 SE 111th Avenue Portland, OR 97216",
+    "neighborhood": "Mill Park",
+    "city_section": "East"
+  },
+  "Floyd Light Park": {
+    "title": "Floyd Light Park",
+    "url": "https://www.portland.gov/parks/floyd-light-park",
+    "location": "SE 111th Avenue and Alder Street Portland, OR 97216",
+    "neighborhood": "Mill Park",
+    "city_section": "East"
+  },
+  "Foley-Balmer Natural Area": {
+    "title": "Foley-Balmer Natural Area",
+    "url": "https://www.portland.gov/parks/foley-balmer-natural-area",
+    "location": "9520 SW Lancaster Road Portland, OR 97219",
+    "neighborhood": "Marshall Park",
+    "city_section": "SW"
+  },
+  "Forest Heights Park": {
+    "title": "Forest Heights Park",
+    "url": "https://www.portland.gov/parks/forest-heights-park",
+    "location": "2999 NW Miller Road Portland, OR 97229",
+    "neighborhood": "Northwest Heights",
+    "city_section": "Downtown"
+  },
+  "Forest Park": {
+    "title": "Forest Park",
+    "url": "https://www.portland.gov/parks/forest-park",
+    "location": null,
+    "neighborhood": "Forest Park",
+    "city_section": "Downtown"
+  },
+  "Foster Floodplain Natural Area": {
+    "title": "Foster Floodplain Natural Area",
+    "url": "https://www.portland.gov/parks/foster-floodplain-natural-area",
+    "location": "SE Foster Road between 104th and 111th Avenue Portland, OR 97266",
+    "neighborhood": "Lents",
+    "city_section": "SE"
+  },
+  "Frazer Community Garden": {
+    "title": "Frazer Community Garden",
+    "url": "https://www.portland.gov/parks/frazer-community-garden",
+    "location": "NE 52nd Avenue and Pacific Street Portland, OR 97213",
+    "neighborhood": "Rose City Park",
+    "city_section": "NE"
+  },
+  "Frazer Park": {
+    "title": "Frazer Park",
+    "url": "https://www.portland.gov/parks/frazer-park",
+    "location": "NE 52nd Avenue and Hassalo Street Portland, OR 97213",
+    "neighborhood": "Rose City Park",
+    "city_section": "NE"
+  },
+  "Front and Curry Community Garden": {
+    "title": "Front and Curry Community Garden",
+    "url": "https://www.portland.gov/parks/front-and-curry-community-garden",
+    "location": "20 SW Curry Street Portland, OR 97201",
+    "neighborhood": "South Portland",
+    "city_section": "SW"
+  },
+  "Fulton Community Garden and Display Garden": {
+    "title": "Fulton Community Garden and Display Garden",
+    "url": "https://www.portland.gov/parks/fulton-community-garden-and-display-garden",
+    "location": "SW 3rd Avenue and Miles Street Portland, OR 97219",
+    "neighborhood": "South Burlingame",
+    "city_section": "SW"
+  },
+  "Fulton Park": {
+    "title": "Fulton Park",
+    "url": "https://www.portland.gov/parks/fulton-park",
+    "location": "68 SW Miles Street Portland, OR 97219",
+    "neighborhood": "South Burlingame",
+    "city_section": "SW"
+  },
+  "Fulton Park Community Center": {
+    "title": "Fulton Park Community Center",
+    "url": "https://www.portland.gov/parks/fulton-park-community-center",
+    "location": "68 SW Miles Street Portland, OR 97219",
+    "neighborhood": "South Burlingame",
+    "city_section": "SW"
+  },
+  "Furey Community Garden": {
+    "title": "Furey Community Garden",
+    "url": "https://www.portland.gov/parks/furey-community-garden",
+    "location": "11820 SE Reedway Street Portland, OR 97266",
+    "neighborhood": "Powellhurst-Gilbert",
+    "city_section": "East"
+  },
+  "Gabriel Community Garden and Orchard": {
+    "title": "Gabriel Community Garden and Orchard",
+    "url": "https://www.portland.gov/parks/gabriel-community-garden-and-orchard",
+    "location": "4151 SW Canby Street Portland, OR 97219",
+    "neighborhood": "Multnomah",
+    "city_section": "SW"
+  },
+  "Gabriel Park": {
+    "title": "Gabriel Park",
+    "url": "https://www.portland.gov/parks/gabriel-park",
+    "location": "SW 45th Avenue and Vermont Street Portland, OR 97219",
+    "neighborhood": "Multnomah",
+    "city_section": "SW"
+  },
+  "Gammans Park": {
+    "title": "Gammans Park",
+    "url": "https://www.portland.gov/parks/gammans-park",
+    "location": "N Buffalo Street and Burrage Avenue Portland, OR 97217",
+    "neighborhood": "Arbor Lodge",
+    "city_section": "North"
+  },
+  "Gateway Discovery Park": {
+    "title": "Gateway Discovery Park",
+    "url": "https://www.portland.gov/parks/gateway-discovery-park",
+    "location": "10520 NE Halsey Street Portland, OR 97220",
+    "neighborhood": "Hazelwood",
+    "city_section": "East"
+  },
+  "Gateway Green": {
+    "title": "Gateway Green",
+    "url": "https://www.portland.gov/parks/gateway-green",
+    "location": "Along I-205 bike and pedestrian path Portland, OR 97220",
+    "neighborhood": "Madison South",
+    "city_section": "East"
+  },
+  "George Himes Park": {
+    "title": "George Himes Park",
+    "url": "https://www.portland.gov/parks/george-himes-park",
+    "location": "SW Terwilliger Blvd and Slavin Road Portland, OR 97201",
+    "neighborhood": "Hillsdale",
+    "city_section": "SW"
+  },
+  "George Park": {
+    "title": "George Park",
+    "url": "https://www.portland.gov/parks/george-park",
+    "location": "N Burr Avenue and Fessenden Street Portland, OR 97203",
+    "neighborhood": "St. Johns",
+    "city_section": "North"
+  },
+  "Gilbert Heights Community Garden": {
+    "title": "Gilbert Heights Community Garden",
+    "url": "https://www.portland.gov/parks/gilbert-heights-community-garden",
+    "location": "4209 SE 130th Avenue Portland, OR 97236",
+    "neighborhood": "Powellhurst-Gilbert",
+    "city_section": "East"
+  },
+  "Gilbert Heights Park": {
+    "title": "Gilbert Heights Park",
+    "url": "https://www.portland.gov/parks/gilbert-heights-park",
+    "location": "SE 130th Avenue and Boise Street Portland, OR 97236",
+    "neighborhood": "Powellhurst-Gilbert",
+    "city_section": "East"
+  },
+  "Gilbert Primary Park": {
+    "title": "Gilbert Primary Park",
+    "url": "https://www.portland.gov/parks/gilbert-primary-park",
+    "location": "SE 134th Avenue and Foster Road Portland, OR 97236",
+    "neighborhood": "Pleasant Valley",
+    "city_section": "East"
+  },
+  "Glenfair Park": {
+    "title": "Glenfair Park",
+    "url": "https://www.portland.gov/parks/glenfair-park",
+    "location": "NE 154th Avenue and Couch Court Portland, OR 97230",
+    "neighborhood": "Glenfair",
+    "city_section": "East"
+  },
+  "Glenhaven Community Garden": {
+    "title": "Glenhaven Community Garden",
+    "url": "https://www.portland.gov/parks/glenhaven-community-garden",
+    "location": "7900 NE Siskiyou Street Portland, OR 97213",
+    "neighborhood": "Madison South",
+    "city_section": "NE"
+  },
+  "Glenhaven Park": {
+    "title": "Glenhaven Park",
+    "url": "https://www.portland.gov/parks/glenhaven-park",
+    "location": "NE 82nd Avenue and Siskiyou Street Portland, OR 97213",
+    "neighborhood": "Madison South",
+    "city_section": "NE"
+  },
+  "Glenwood Park": {
+    "title": "Glenwood Park",
+    "url": "https://www.portland.gov/parks/glenwood-park",
+    "location": "SE 87th Avenue and Claybourne Street Portland, OR 97266",
+    "neighborhood": "Lents",
+    "city_section": "SE"
+  },
+  "Governor Tom McCall Waterfront Park": {
+    "title": "Governor Tom McCall Waterfront Park",
+    "url": "https://www.portland.gov/parks/governor-tom-mccall-waterfront-park",
+    "location": "Naito Parkway between S Harrison Street and NW Glisan Street Portland, OR 97204",
+    "neighborhood": "Portland Downtown",
+    "city_section": "Downtown"
+  },
+  "Governors Park": {
+    "title": "Governors Park",
+    "url": "https://www.portland.gov/parks/governors-park",
+    "location": "SW 13th Avenue and Davenport Street Portland, OR 97201",
+    "neighborhood": "Southwest Hills",
+    "city_section": "SW"
+  },
+  "Grant Community Garden": {
+    "title": "Grant Community Garden",
+    "url": "https://www.portland.gov/parks/grant-community-garden",
+    "location": "2245 NE 36th Avenue Portland, OR 97212",
+    "neighborhood": "Grant Park",
+    "city_section": "NE"
+  },
+  "Grant Outdoor Pool": {
+    "title": "Grant Outdoor Pool",
+    "url": "https://www.portland.gov/parks/grant-outdoor-pool",
+    "location": "NE 33rd Avenue and US Grant Place Portland, OR 97212",
+    "neighborhood": "Grant Park",
+    "city_section": "NE"
+  },
+  "Grant Park": {
+    "title": "Grant Park",
+    "url": "https://www.portland.gov/parks/grant-park",
+    "location": "NE 33rd Avenue and US Grant Place Portland, OR 97212",
+    "neighborhood": "Grant Park",
+    "city_section": "NE"
+  },
+  "Grout SUN Community School": {
+    "title": "Grout SUN Community School",
+    "url": "https://www.portland.gov/parks/grout-sun-community-school",
+    "location": "3119 SE Holgate Blvd Portland, OR 97202",
+    "neighborhood": "Creston-Kenilworth",
+    "city_section": "SE"
+  },
+  "Hamilton Park": {
+    "title": "Hamilton Park",
+    "url": "https://www.portland.gov/parks/hamilton-park",
+    "location": "SW 45th Avenue and Hamilton Street Portland, OR 97221",
+    "neighborhood": "Bridlemile",
+    "city_section": "SW"
+  },
+  "Hancock Park": {
+    "title": "Hancock Park",
+    "url": "https://www.portland.gov/parks/hancock-park",
+    "location": "NE 90th Avenue and Tillamook Street Portland, OR 97220",
+    "neighborhood": "Madison South",
+    "city_section": "NE"
+  },
+  "Harney Park": {
+    "title": "Harney Park",
+    "url": "https://www.portland.gov/parks/harney-park",
+    "location": "SE 67th Avenue and Harney Street Portland, OR 97206",
+    "neighborhood": "Brentwood-Darlington",
+    "city_section": "SE"
+  },
+  "Harrison Park": {
+    "title": "Harrison Park",
+    "url": "https://www.portland.gov/parks/harrison-park",
+    "location": "SE 84th Avenue and Harrison Street Portland, OR 97216",
+    "neighborhood": "Montavilla",
+    "city_section": "SE"
+  },
+  "Hazeltine Park": {
+    "title": "Hazeltine Park",
+    "url": "https://www.portland.gov/parks/hazeltine-park",
+    "location": "5416 SE Flavel Drive Portland, OR 97206",
+    "neighborhood": "Brentwood-Darlington",
+    "city_section": "SE"
+  },
+  "Hazelwood Community Garden": {
+    "title": "Hazelwood Community Garden",
+    "url": "https://www.portland.gov/parks/hazelwood-community-garden",
+    "location": "1017 NE 117th Avenue Portland, OR 97220",
+    "neighborhood": "Hazelwood",
+    "city_section": "East"
+  },
+  "Healy Heights Park": {
+    "title": "Healy Heights Park",
+    "url": "https://www.portland.gov/parks/healy-heights-park",
+    "location": "SW Patrick Place and Council Crest Drive Portland, OR 97201",
+    "neighborhood": "Healy Heights",
+    "city_section": "SW"
+  },
+  "Helensview Community Garden": {
+    "title": "Helensview Community Garden",
+    "url": "https://www.portland.gov/parks/helensview-community-garden",
+    "location": "8678 NE Sumner Street Portland, OR 97220",
+    "neighborhood": "Sumner",
+    "city_section": "NE"
+  },
+  "Heron Lakes Golf Course": {
+    "title": "Heron Lakes Golf Course",
+    "url": "https://www.portland.gov/parks/heron-lakes-golf-course",
+    "location": "3500 N Victory Blvd Portland, OR 97217",
+    "neighborhood": "Kenton",
+    "city_section": "North"
+  },
+  "Hillsdale Park": {
+    "title": "Hillsdale Park",
+    "url": "https://www.portland.gov/parks/hillsdale-park",
+    "location": "SW 27th Avenue and Hillsdale Highway Portland, OR 97201",
+    "neighborhood": "Hillsdale",
+    "city_section": "SW"
+  },
+  "Hillside Community Center": {
+    "title": "Hillside Community Center",
+    "url": "https://www.portland.gov/parks/hillside-community-center",
+    "location": "653 NW Culpepper Terrace Portland, OR 97210",
+    "neighborhood": "Hillside",
+    "city_section": "Downtown"
+  },
+  "Hillside Park": {
+    "title": "Hillside Park",
+    "url": "https://www.portland.gov/parks/hillside-park",
+    "location": "653 NW Culpepper Terrace Portland, OR 97210",
+    "neighborhood": "Hillside",
+    "city_section": "NW"
+  },
+  "Holladay Park": {
+    "title": "Holladay Park",
+    "url": "https://www.portland.gov/parks/holladay-park",
+    "location": "NE 11th Avenue and Holladay Street Portland, OR 97232",
+    "neighborhood": "Sullivan's Gulch",
+    "city_section": "NE"
+  },
+  "Holly Farm Park": {
+    "title": "Holly Farm Park",
+    "url": "https://www.portland.gov/parks/holly-farm-park",
+    "location": "10819 SW Capitol Highway Portland, OR 97219",
+    "neighborhood": "West Portland Park",
+    "city_section": "SW"
+  },
+  "Hoyt Arboretum": {
+    "title": "Hoyt Arboretum",
+    "url": "https://www.portland.gov/parks/hoyt-arboretum",
+    "location": "4000 SW Fairview Blvd Portland, OR 97221",
+    "neighborhood": "Arlington Heights",
+    "city_section": "Downtown"
+  },
+  "Ida B. Wells-Barnett Outdoor Pool": {
+    "title": "Ida B. Wells-Barnett Outdoor Pool",
+    "url": "https://www.portland.gov/parks/ida-b-wells-barnett-outdoor-pool",
+    "location": "1151 SW Vermont Street Portland, OR 97219",
+    "neighborhood": "Hillsdale",
+    "city_section": "SW"
+  },
+  "Interstate Firehouse Cultural Center": {
+    "title": "Interstate Firehouse Cultural Center",
+    "url": "https://www.portland.gov/parks/interstate-firehouse-cultural-center",
+    "location": "5340 N Interstate Avenue Portland, OR 97217",
+    "neighborhood": "North",
+    "city_section": "North"
+  },
+  "Irving Park": {
+    "title": "Irving Park",
+    "url": "https://www.portland.gov/parks/irving-park",
+    "location": "NE 7th Avenue and Fremont Street Portland, OR 97212",
+    "neighborhood": "Irvington",
+    "city_section": "NE"
+  },
+  "Ivon Community Garden": {
+    "title": "Ivon Community Garden",
+    "url": "https://www.portland.gov/parks/ivon-community-garden",
+    "location": "3817 SE Ivon Street Portland, OR 97215",
+    "neighborhood": "Richmond",
+    "city_section": "SE"
+  },
+  "Ivon Street Park": {
+    "title": "Ivon Street Park",
+    "url": "https://www.portland.gov/parks/ivon-street-park",
+    "location": "SE 47th Avenue and Ivon Street Portland, OR 97206",
+    "neighborhood": "Richmond",
+    "city_section": "SE"
+  },
+  "Jamison Square": {
+    "title": "Jamison Square",
+    "url": "https://www.portland.gov/parks/jamison-square",
+    "location": "810 NW 11th Avenue Portland, OR 97209",
+    "neighborhood": "Pearl District",
+    "city_section": "Downtown"
+  },
+  "John Luby Park": {
+    "title": "John Luby Park",
+    "url": "https://www.portland.gov/parks/john-luby-park",
+    "location": "NE 128th Avenue and Brazee Street Portland, OR 97230",
+    "neighborhood": "Russell",
+    "city_section": "East"
+  },
+  "Johns Community Garden": {
+    "title": "Johns Community Garden",
+    "url": "https://www.portland.gov/parks/johns-community-garden",
+    "location": "N Edison Street and John Avenue Portland, OR 97203",
+    "neighborhood": "Cathedral Park",
+    "city_section": "North"
+  },
+  "Johnson Creek Park": {
+    "title": "Johnson Creek Park",
+    "url": "https://www.portland.gov/parks/johnson-creek-park",
+    "location": "SE 21st Avenue and Clatsop Street Portland, OR 97202",
+    "neighborhood": null,
+    "city_section": "SE"
+  },
+  "Johnson Lake Natural Area": {
+    "title": "Johnson Lake Natural Area",
+    "url": "https://www.portland.gov/parks/johnson-lake-natural-area",
+    "location": "NE Glass Plant Road and Simpson Street Portland, OR 97218",
+    "neighborhood": "Sumner",
+    "city_section": "NE"
+  },
+  "Joseph Wood Hill Park": {
+    "title": "Joseph Wood Hill Park",
+    "url": "https://www.portland.gov/parks/joseph-wood-hill-park",
+    "location": "NE Rocky Butte Road Portland, OR 97220",
+    "neighborhood": "Madison South",
+    "city_section": "NE"
+  },
+  "Keller Fountain Park": {
+    "title": "Keller Fountain Park",
+    "url": "https://www.portland.gov/parks/keller-fountain-park",
+    "location": "SW 3rd Avenue and Clay Street Portland, OR 97204",
+    "neighborhood": "Portland Downtown",
+    "city_section": "Downtown"
+  },
+  "Kelley Point Park": {
+    "title": "Kelley Point Park",
+    "url": "https://www.portland.gov/parks/kelley-point-park",
+    "location": "N Marine Drive and Columbia Blvd Portland, OR 97203",
+    "neighborhood": "St. Johns",
+    "city_section": "North"
+  },
+  "Kelly Butte Natural Area": {
+    "title": "Kelly Butte Natural Area",
+    "url": "https://www.portland.gov/parks/kelly-butte-natural-area",
+    "location": "SE 103rd Avenue and Clinton Street Portland, OR 97266",
+    "neighborhood": "Powellhurst-Gilbert",
+    "city_section": "East"
+  },
+  "Kenilworth Park": {
+    "title": "Kenilworth Park",
+    "url": "https://www.portland.gov/parks/kenilworth-park",
+    "location": "SE 34th Avenue and Holgate Blvd Portland, OR 97202",
+    "neighborhood": "Creston-Kenilworth",
+    "city_section": "SE"
+  },
+  "Kennedy Community Garden": {
+    "title": "Kennedy Community Garden",
+    "url": "https://www.portland.gov/parks/kennedy-community-garden",
+    "location": "NE 35th Avenue and Jessup Street Portland, OR 97211",
+    "neighborhood": "Concordia",
+    "city_section": "NE"
+  },
+  "Kenton Community Garden": {
+    "title": "Kenton Community Garden",
+    "url": "https://www.portland.gov/parks/kenton-community-garden",
+    "location": "N Houghton Street and Burrage Avenue Portland, OR 97217",
+    "neighborhood": "Kenton",
+    "city_section": "North"
+  },
+  "Kenton Park": {
+    "title": "Kenton Park",
+    "url": "https://www.portland.gov/parks/kenton-park",
+    "location": "8417 N Brandon Avenue Portland, OR 97217",
+    "neighborhood": "Kenton",
+    "city_section": "North"
+  },
+  "Kern Park": {
+    "title": "Kern Park",
+    "url": "https://www.portland.gov/parks/kern-park",
+    "location": "SE 67th Avenue and Center Street Portland, OR 97206",
+    "neighborhood": "Foster-Powell",
+    "city_section": "SE"
+  },
+  "K\u02b0unamokwst Park": {
+    "title": "K\u02b0unamokwst Park",
+    "url": "https://www.portland.gov/parks/khunamokwst-park",
+    "location": "5200 NE Alberta Street Portland, OR 97218",
+    "neighborhood": "Cully",
+    "city_section": "NE"
+  },
+  "Kingsley Park Community Garden": {
+    "title": "Kingsley Park Community Garden",
+    "url": "https://www.portland.gov/parks/kingsley-park-community-garden",
+    "location": "11498 NW St. Helens Road, in the Linnton neighborhood Portland, OR 97231",
+    "neighborhood": "Linnton",
+    "city_section": "NW"
+  },
+  "Knott Community Garden": {
+    "title": "Knott Community Garden",
+    "url": "https://www.portland.gov/parks/knott-community-garden",
+    "location": "11510 NE Knott Street Portland, OR 97220",
+    "neighborhood": "Parkrose Heights",
+    "city_section": "East"
+  },
+  "Knott Park": {
+    "title": "Knott Park",
+    "url": "https://www.portland.gov/parks/knott-park",
+    "location": "NE 117th Avenue and Knott Street Portland, OR 97220",
+    "neighborhood": "Parkrose",
+    "city_section": "East"
+  },
+  "Ladd Circle Park and Rose Gardens": {
+    "title": "Ladd Circle Park and Rose Gardens",
+    "url": "https://www.portland.gov/parks/ladd-circle-park-and-rose-gardens",
+    "location": "SE 16th Avenue and Harrison Street Portland, OR 97214",
+    "neighborhood": "Hosford-Abernethy",
+    "city_section": "SE"
+  },
+  "Lair Hill Park": {
+    "title": "Lair Hill Park",
+    "url": "https://www.portland.gov/parks/lair-hill-park",
+    "location": "SW 2nd Avenue and Woods Street Portland, OR 97201",
+    "neighborhood": "South Portland",
+    "city_section": "Downtown"
+  },
+  "Lan Su Chinese Garden": {
+    "title": "Lan Su Chinese Garden",
+    "url": "https://www.portland.gov/parks/lan-su-chinese-garden",
+    "location": "NW 3rd Avenue and Everett Street Portland, OR 97209",
+    "neighborhood": "Old Town",
+    "city_section": "Downtown"
+  },
+  "Lane SUN Community School": {
+    "title": "Lane SUN Community School",
+    "url": "https://www.portland.gov/parks/lane-sun-community-school",
+    "location": "7200 SE 60th Avenue Portland, OR 97206",
+    "neighborhood": "Brentwood-Darlington",
+    "city_section": "SE"
+  },
+  "Laurelhurst Park": {
+    "title": "Laurelhurst Park",
+    "url": "https://www.portland.gov/parks/laurelhurst-park",
+    "location": "NW Corner of SE C\u00e9sar E. Ch\u00e1vez Blvd. and Stark Street Portland, OR 97214",
+    "neighborhood": "Laurelhurst",
+    "city_section": "SE"
+  },
+  "Laurelwood Park": {
+    "title": "Laurelwood Park",
+    "url": "https://www.portland.gov/parks/laurelwood-park",
+    "location": "SE 64th Street and Foster Road Portland, OR 97206",
+    "neighborhood": "Foster-Powell",
+    "city_section": "SE"
+  },
+  "Leach Botanical Garden": {
+    "title": "Leach Botanical Garden",
+    "url": "https://www.portland.gov/parks/leach-botanical-garden",
+    "location": "6704 SE 122nd Avenue Portland, OR 97236",
+    "neighborhood": "Pleasant Valley",
+    "city_section": "East"
+  },
+  "Lents Community Garden": {
+    "title": "Lents Community Garden",
+    "url": "https://www.portland.gov/parks/lents-community-garden",
+    "location": "5208 SE 88th Avenue Portland, OR 97266",
+    "neighborhood": "Lents",
+    "city_section": "SE"
+  },
+  "Lents Park": {
+    "title": "Lents Park",
+    "url": "https://www.portland.gov/parks/lents-park",
+    "location": "SE 92nd Avenue and Holgate Blvd Portland, OR 97266",
+    "neighborhood": "Lents",
+    "city_section": "East"
+  },
+  "Lents Park - Walker Stadium": {
+    "title": "Lents Park - Walker Stadium",
+    "url": "https://www.portland.gov/parks/lents-park-walker-stadium",
+    "location": "SE 92nd Avenue and Holgate Blvd Portland, OR 97266",
+    "neighborhood": "Lents",
+    "city_section": "East"
+  },
+  "Lesser Park": {
+    "title": "Lesser Park",
+    "url": "https://www.portland.gov/parks/lesser-park",
+    "location": "SW 57th Avenue and Haines Street Portland, OR 97219",
+    "neighborhood": "Far Southwest",
+    "city_section": "SW"
+  },
+  "Lillis-Albina Park": {
+    "title": "Lillis-Albina Park",
+    "url": "https://www.portland.gov/parks/lillis-albina-park",
+    "location": "N Flint Avenue and Russell Street Portland, OR 97227",
+    "neighborhood": "Eliot",
+    "city_section": "Downtown"
+  },
+  "Lincoln Park": {
+    "title": "Lincoln Park",
+    "url": "https://www.portland.gov/parks/lincoln-park",
+    "location": "SE 135th Avenue and Mill Street Portland, OR 97233",
+    "neighborhood": "Hazelwood",
+    "city_section": "East"
+  },
+  "Linnton Park": {
+    "title": "Linnton Park",
+    "url": "https://www.portland.gov/parks/linnton-park",
+    "location": "NW 105th Avenue and St. Helens Road Portland, OR 97231",
+    "neighborhood": "Linnton",
+    "city_section": "Downtown"
+  },
+  "Lotus Isle Park": {
+    "title": "Lotus Isle Park",
+    "url": "https://www.portland.gov/parks/lotus-isle-park",
+    "location": "N Tomahawk Island Drive Portland, OR 97217",
+    "neighborhood": "Hayden Island",
+    "city_section": "NE"
+  },
+  "Lovejoy Fountain Park": {
+    "title": "Lovejoy Fountain Park",
+    "url": "https://www.portland.gov/parks/lovejoy-fountain-park",
+    "location": "SW 3rd Avenue and Harrison Street Portland, OR 97204",
+    "neighborhood": "Portland Downtown",
+    "city_section": "Downtown"
+  },
+  "Lownsdale Square": {
+    "title": "Lownsdale Square",
+    "url": "https://www.portland.gov/parks/lownsdale-square",
+    "location": "SW 4th Avenue and Main Street Portland, OR 97205",
+    "neighborhood": "Portland Downtown",
+    "city_section": "Downtown"
+  },
+  "Luuwit View Community Garden": {
+    "title": "Luuwit View Community Garden",
+    "url": "https://www.portland.gov/parks/luuwit-view-community-garden",
+    "location": "one block east of NE 134th Avenue and Failing Court Portland, OR 97230",
+    "neighborhood": "Argay Terrace",
+    "city_section": "East"
+  },
+  "Luuwit View Park": {
+    "title": "Luuwit View Park",
+    "url": "https://www.portland.gov/parks/luuwit-view-park",
+    "location": "NE 127th Avenue and NE Fremont Street Portland, OR 97230",
+    "neighborhood": "Argay Terrace",
+    "city_section": "East"
+  },
+  "Lynchwood Park": {
+    "title": "Lynchwood Park",
+    "url": "https://www.portland.gov/parks/lynchwood-park",
+    "location": "SE 170th Avenue and Haig Street Portland, OR 97266",
+    "neighborhood": "Centennial",
+    "city_section": null
+  },
+  "Madrona Park": {
+    "title": "Madrona Park",
+    "url": "https://www.portland.gov/parks/madrona-park",
+    "location": "N Greeley Avenue and Going Court Portland, OR 97203",
+    "neighborhood": "Overlook",
+    "city_section": "North"
+  },
+  "Mallory Meadows Park": {
+    "title": "Mallory Meadows Park",
+    "url": "https://www.portland.gov/parks/mallory-meadows-park",
+    "location": "NE Killingsworth Street and Mallory Street Portland, OR 97211",
+    "neighborhood": "King",
+    "city_section": "NE"
+  },
+  "Marquam Nature Park": {
+    "title": "Marquam Nature Park",
+    "url": "https://www.portland.gov/parks/marquam-nature-park",
+    "location": "SW Marquam Street and Sam Jackson Park Road Portland, OR 97201",
+    "neighborhood": "Southwest Hills",
+    "city_section": "SW"
+  },
+  "Marshall Park": {
+    "title": "Marshall Park",
+    "url": "https://www.portland.gov/parks/marshall-park",
+    "location": "9700 SW 12th Dr Portland, OR 97219",
+    "neighborhood": "Southwest",
+    "city_section": "SW"
+  },
+  "Matt Dishman Community Center": {
+    "title": "Matt Dishman Community Center",
+    "url": "https://www.portland.gov/parks/matt-dishman-community-center",
+    "location": "77 NE Knott Street Portland, OR 97212",
+    "neighborhood": "Eliot",
+    "city_section": "NE"
+  },
+  "Matt Dishman Indoor Pool": {
+    "title": "Matt Dishman Indoor Pool",
+    "url": "https://www.portland.gov/parks/matt-dishman-indoor-pool",
+    "location": "77 NE Knott Street Portland, OR 97212",
+    "neighborhood": "Eliot",
+    "city_section": "NE"
+  },
+  "McCoy Community Garden": {
+    "title": "McCoy Community Garden",
+    "url": "https://www.portland.gov/parks/mccoy-community-garden",
+    "location": "9399 N Newman Avenue Portland, OR 97203",
+    "neighborhood": "Portsmouth",
+    "city_section": "North"
+  },
+  "McCoy Park": {
+    "title": "McCoy Park",
+    "url": "https://www.portland.gov/parks/mccoy-park",
+    "location": "N Trenton Street and Newman Avenue Portland, OR 97203",
+    "neighborhood": "Portsmouth",
+    "city_section": "North"
+  },
+  "McKenna Park": {
+    "title": "McKenna Park",
+    "url": "https://www.portland.gov/parks/mckenna-park",
+    "location": "N Wall Avenue and Princeton Street Portland, OR 97203",
+    "neighborhood": "University Park",
+    "city_section": "North"
+  },
+  "Merrifield Park": {
+    "title": "Merrifield Park",
+    "url": "https://www.portland.gov/parks/merrifield-park",
+    "location": "NE 117th Avenue and Thompson Street Portland, OR 97220",
+    "neighborhood": "Parkrose Heights",
+    "city_section": "East"
+  },
+  "Midland Park": {
+    "title": "Midland Park",
+    "url": "https://www.portland.gov/parks/midland-park",
+    "location": "SE 122nd Avenue and Morrison Street Portland, OR 97233",
+    "neighborhood": "Mill Park",
+    "city_section": "East"
+  },
+  "Mill Ends Park": {
+    "title": "Mill Ends Park",
+    "url": "https://www.portland.gov/parks/mill-ends-park",
+    "location": "SW Naito Parkway and Taylor Street Portland, OR 97204",
+    "neighborhood": "Portland Downtown",
+    "city_section": "Downtown"
+  },
+  "Mill Park": {
+    "title": "Mill Park",
+    "url": "https://www.portland.gov/parks/mill-park",
+    "location": "SE 117th Avenue and Mill Court Portland, OR 97216",
+    "neighborhood": "Mill Park",
+    "city_section": "East"
+  },
+  "Montavilla Community Center": {
+    "title": "Montavilla Community Center",
+    "url": "https://www.portland.gov/parks/montavilla-community-center",
+    "location": "8219 NE Glisan Street Portland, OR 97220",
+    "neighborhood": "Montavilla",
+    "city_section": "NE"
+  },
+  "Montavilla Outdoor Pool": {
+    "title": "Montavilla Outdoor Pool",
+    "url": "https://www.portland.gov/parks/montavilla-outdoor-pool",
+    "location": "8219 NE Glisan Street Portland, OR 97220",
+    "neighborhood": "Montavilla",
+    "city_section": "SE"
+  },
+  "Montavilla Park": {
+    "title": "Montavilla Park",
+    "url": "https://www.portland.gov/parks/montavilla-park",
+    "location": "NE 82nd Avenue and Glisan Street Portland, OR 97220",
+    "neighborhood": "Montavilla",
+    "city_section": "NE"
+  },
+  "Mt. Scott Community Center": {
+    "title": "Mt. Scott Community Center",
+    "url": "https://www.portland.gov/parks/mt-scott-community-center",
+    "location": "Mt. Scott Community Center and Indoor Pool is closed for extensive renovation. Please visit other PP&R locations. 5530 SE 72nd Avenue Portland, OR 97206",
+    "neighborhood": "Mt. Scott-Arleta",
+    "city_section": "SE"
+  },
+  "Mt. Scott Indoor Pool": {
+    "title": "Mt. Scott Indoor Pool",
+    "url": "https://www.portland.gov/parks/mt-scott-indoor-pool",
+    "location": "Mt. Scott Community Center and Indoor Pool is closed for extensive renovation. Please visit other PP&R locations. 5530 SE 72nd Avenue Portland, OR 97206",
+    "neighborhood": "Mt. Scott-Arleta",
+    "city_section": "SE"
+  },
+  "Mt. Scott Park": {
+    "title": "Mt. Scott Park",
+    "url": "https://www.portland.gov/parks/mt-scott-park",
+    "location": "SE 72nd Avenue and Harold Street Portland, OR 97206",
+    "neighborhood": "Mt. Scott-Arleta",
+    "city_section": "SE"
+  },
+  "Mt. Tabor Community Garden": {
+    "title": "Mt. Tabor Community Garden",
+    "url": "https://www.portland.gov/parks/mt-tabor-community-garden",
+    "location": "SE 64th Avenue and Lincoln Street Portland, OR 97215",
+    "neighborhood": "Mt. Tabor",
+    "city_section": "SE"
+  },
+  "Mt. Tabor Park": {
+    "title": "Mt. Tabor Park",
+    "url": "https://www.portland.gov/parks/mt-tabor-park",
+    "location": "SE 60th Avenue and Salmon Street Portland, OR 97215",
+    "neighborhood": "Mt. Tabor",
+    "city_section": "SE"
+  },
+  "Mt. Tabor SUN Community School": {
+    "title": "Mt. Tabor SUN Community School",
+    "url": "https://www.portland.gov/parks/mt-tabor-sun-community-school",
+    "location": "5800 SE Ash Street Portland, OR 97215",
+    "neighborhood": null,
+    "city_section": "SE"
+  },
+  "Multnomah Arts Center": {
+    "title": "Multnomah Arts Center",
+    "url": "https://www.portland.gov/parks/multnomah-arts-center",
+    "location": "7688 SW Capitol Highway Portland, OR 97219",
+    "neighborhood": "Multnomah",
+    "city_section": "SW"
+  },
+  "Native Gathering Garden": {
+    "title": "Native Gathering Garden",
+    "url": "https://www.portland.gov/parks/native-gathering-garden",
+    "location": "North of NE 72nd Avenue and Killingsworth Street Portland, OR 97218",
+    "neighborhood": "Cully",
+    "city_section": "NE"
+  },
+  "NE 72nd Ave Community Garden": {
+    "title": "NE 72nd Ave Community Garden",
+    "url": "https://www.portland.gov/parks/ne-72nd-ave-community-garden",
+    "location": "5800 NE 72nd Avenue Portland, OR 97218",
+    "neighborhood": "Cully",
+    "city_section": "NE"
+  },
+  "Normandale Park": {
+    "title": "Normandale Park",
+    "url": "https://www.portland.gov/parks/normandale-park",
+    "location": "NE 57th Avenue and Halsey Street Portland, OR 97213",
+    "neighborhood": "Rose City Park",
+    "city_section": "NE"
+  },
+  "Normandale Park - Erv Lind Stadium": {
+    "title": "Normandale Park - Erv Lind Stadium",
+    "url": "https://www.portland.gov/parks/normandale-park-erv-lind-stadium",
+    "location": "NE 57th Avenue and Hassalo Street Portland, OR 97213",
+    "neighborhood": "Rose City Park",
+    "city_section": "NE"
+  },
+  "North Park Blocks": {
+    "title": "North Park Blocks",
+    "url": "https://www.portland.gov/parks/north-park-blocks",
+    "location": "NW Park Avenue from Ankeny Street to Glisan Street Portland, OR 97209",
+    "neighborhood": "Pearl District",
+    "city_section": "Downtown"
+  },
+  "North Powellhurst Park": {
+    "title": "North Powellhurst Park",
+    "url": "https://www.portland.gov/parks/north-powellhurst-park",
+    "location": "SE 135th Avenue and Main Street Portland, OR 97266",
+    "neighborhood": "Hazelwood",
+    "city_section": "East"
+  },
+  "Northgate Park": {
+    "title": "Northgate Park",
+    "url": "https://www.portland.gov/parks/northgate-park",
+    "location": "N Geneva Avenue and Fessenden Street Portland, OR 97203",
+    "neighborhood": "Portsmouth",
+    "city_section": "North"
+  },
+  "Oaks Bottom Wildlife Refuge": {
+    "title": "Oaks Bottom Wildlife Refuge",
+    "url": "https://www.portland.gov/parks/oaks-bottom-wildlife-refuge",
+    "location": "SE 7th Avenue and Sellwood Blvd Portland, OR 97202",
+    "neighborhood": "Sellwood-Moreland",
+    "city_section": "SE"
+  },
+  "Oaks Pioneer Church and Park": {
+    "title": "Oaks Pioneer Church and Park",
+    "url": "https://www.portland.gov/parks/oaks-pioneer-church-and-park",
+    "location": "455 SE Spokane Street Portland, OR 97202",
+    "neighborhood": "Sellwood-Moreland",
+    "city_section": "SE"
+  },
+  "Oliver-Parklane Community Garden": {
+    "title": "Oliver-Parklane Community Garden",
+    "url": "https://www.portland.gov/parks/oliver-parklane-community-garden",
+    "location": "15811 SE Main Street Portland, OR 97233",
+    "neighborhood": "Centennial",
+    "city_section": "East"
+  },
+  "Oregon Holocaust Memorial": {
+    "title": "Oregon Holocaust Memorial",
+    "url": "https://www.portland.gov/parks/oregon-holocaust-memorial",
+    "location": "SW Washington Way and Wright Avenue Portland, OR 97204",
+    "neighborhood": "Arlington Heights",
+    "city_section": "SW"
+  },
+  "Oregon Park": {
+    "title": "Oregon Park",
+    "url": "https://www.portland.gov/parks/oregon-park",
+    "location": "NE 30th Avenue and Oregon Street Portland, OR 97232",
+    "neighborhood": "Kerns",
+    "city_section": "NE"
+  },
+  "Overlook House": {
+    "title": "Overlook House",
+    "url": "https://www.portland.gov/parks/overlook-house",
+    "location": "3839 N Melrose Drive Portland, OR 97227",
+    "neighborhood": "Overlook",
+    "city_section": "North"
+  },
+  "Overlook Park": {
+    "title": "Overlook Park",
+    "url": "https://www.portland.gov/parks/overlook-park",
+    "location": "N Fremont Street and Interstate Avenue Portland, OR 97227",
+    "neighborhood": "Overlook",
+    "city_section": "North"
+  },
+  "Parklane Park": {
+    "title": "Parklane Park",
+    "url": "https://www.portland.gov/parks/parklane-park",
+    "location": "SE 155th Avenue and Main Street Portland, OR 97233",
+    "neighborhood": "Centennial",
+    "city_section": "East"
+  },
+  "Parkrose SUN Community School": {
+    "title": "Parkrose SUN Community School",
+    "url": "https://www.portland.gov/parks/parkrose-sun-community-school",
+    "location": "12003 NE Shaver Street Portland, OR 97220",
+    "neighborhood": "Parkrose",
+    "city_section": "NE"
+  },
+  "Patton Community Garden": {
+    "title": "Patton Community Garden",
+    "url": "https://www.portland.gov/parks/patton-community-garden",
+    "location": "N Michigan Avenue and Blandena Street Portland, OR 97217",
+    "neighborhood": "Humboldt",
+    "city_section": "NE"
+  },
+  "Patton Square Park": {
+    "title": "Patton Square Park",
+    "url": "https://www.portland.gov/parks/patton-square-park",
+    "location": "N Interstate Avenue and Emerson Street Portland, OR 97217",
+    "neighborhood": "Overlook",
+    "city_section": "North"
+  },
+  "Peace Community Garden": {
+    "title": "Peace Community Garden",
+    "url": "https://www.portland.gov/parks/peace-community-garden",
+    "location": "12727 SE Market Street Portland, OR 97233",
+    "neighborhood": "Mill Park",
+    "city_section": "East"
+  },
+  "Pendleton Park": {
+    "title": "Pendleton Park",
+    "url": "https://www.portland.gov/parks/pendleton-park",
+    "location": "SW 55th Avenue and Iowa Street Portland, OR 97221",
+    "neighborhood": "Hayhurst",
+    "city_section": "SW"
+  },
+  "Peninsula Crossing Trail": {
+    "title": "Peninsula Crossing Trail",
+    "url": "https://www.portland.gov/parks/peninsula-crossing-trail",
+    "location": "N Willamette Blvd to Columbia Blvd Portland, OR 97203",
+    "neighborhood": "Portsmouth",
+    "city_section": "North"
+  },
+  "Peninsula Outdoor Pool": {
+    "title": "Peninsula Outdoor Pool",
+    "url": "https://www.portland.gov/parks/peninsula-outdoor-pool",
+    "location": "700 N Rosa Parks Way Portland, OR 97217",
+    "neighborhood": "Piedmont",
+    "city_section": "North"
+  },
+  "Peninsula Park": {
+    "title": "Peninsula Park",
+    "url": "https://www.portland.gov/parks/peninsula-park",
+    "location": "700 N Rosa Parks Way Portland, OR 97217",
+    "neighborhood": "Piedmont",
+    "city_section": "North"
+  },
+  "Peninsula Park Community Center": {
+    "title": "Peninsula Park Community Center",
+    "url": "https://www.portland.gov/parks/peninsula-park-community-center",
+    "location": "700 N Rosa Parks Way Portland, OR 97217",
+    "neighborhood": "Piedmont",
+    "city_section": "North"
+  },
+  "Peninsula Park Rose Garden": {
+    "title": "Peninsula Park Rose Garden",
+    "url": "https://www.portland.gov/parks/peninsula-park-rose-garden",
+    "location": "N Albina Street and Ainsworth Street Portland, OR 97217",
+    "neighborhood": "Piedmont",
+    "city_section": "North"
+  },
+  "Pettygrove Park": {
+    "title": "Pettygrove Park",
+    "url": "https://www.portland.gov/parks/pettygrove-park",
+    "location": "SW 1st to 4th Avenue - Market to Harrison Street Portland, OR 97204",
+    "neighborhood": "Portland Downtown",
+    "city_section": "Downtown"
+  },
+  "Piccolo Park": {
+    "title": "Piccolo Park",
+    "url": "https://www.portland.gov/parks/piccolo-park",
+    "location": "SE 27th Avenue and Division Street Portland, OR 97202",
+    "neighborhood": "Hosford-Abernethy",
+    "city_section": "SE"
+  },
+  "Pier Community Garden": {
+    "title": "Pier Community Garden",
+    "url": "https://www.portland.gov/parks/pier-community-garden",
+    "location": "10198 N Iris Way Portland, OR 97203",
+    "neighborhood": "St. Johns",
+    "city_section": "North"
+  },
+  "Pier Outdoor Pool": {
+    "title": "Pier Outdoor Pool",
+    "url": "https://www.portland.gov/parks/pier-outdoor-pool",
+    "location": "N Seneca Street and St. Johns Avenue Portland, OR 97203",
+    "neighborhood": "St. Johns",
+    "city_section": "North"
+  },
+  "Pier Park": {
+    "title": "Pier Park",
+    "url": "https://www.portland.gov/parks/pier-park",
+    "location": "N Lombard Street and Bruce Avenue Portland, OR 97203",
+    "neighborhood": "St. Johns",
+    "city_section": "North"
+  },
+  "Pioneer Courthouse Square": {
+    "title": "Pioneer Courthouse Square",
+    "url": "https://www.portland.gov/parks/pioneer-courthouse-square",
+    "location": "SW Broadway and Yamhill Street Portland, OR 97205",
+    "neighborhood": "Portland Downtown",
+    "city_section": "Downtown"
+  },
+  "Pittock Acres Park": {
+    "title": "Pittock Acres Park",
+    "url": "https://www.portland.gov/parks/pittock-acres-park",
+    "location": "3229 NW Pittock Drive Portland, OR 97210",
+    "neighborhood": "Hillside",
+    "city_section": "NW"
+  },
+  "Pittock Mansion": {
+    "title": "Pittock Mansion",
+    "url": "https://www.portland.gov/parks/pittock-mansion",
+    "location": "3229 NW Pittock Drive Portland, OR 97210",
+    "neighborhood": "Hillside",
+    "city_section": "NW"
+  },
+  "PlayHaven Park": {
+    "title": "PlayHaven Park",
+    "url": "https://www.portland.gov/parks/playhaven-park",
+    "location": "SE 107th Avenue and Henderson Street Portland, OR 97266",
+    "neighborhood": "Powellhurst-Gilbert",
+    "city_section": "East"
+  },
+  "Poet's Beach": {
+    "title": "Poet's Beach",
+    "url": "https://www.portland.gov/parks/poets-beach",
+    "location": "",
+    "neighborhood": "Portland Downtown",
+    "city_section": null
+  },
+  "Portland Heights Park": {
+    "title": "Portland Heights Park",
+    "url": "https://www.portland.gov/parks/portland-heights-park",
+    "location": "SW Patton Road and Old Orchard Road Portland, OR 97201",
+    "neighborhood": "Southwest Hills",
+    "city_section": "SW"
+  },
+  "Portland International Raceway": {
+    "title": "Portland International Raceway",
+    "url": "https://www.portland.gov/parks/portland-international-raceway",
+    "location": "1940 N Victory Blvd Portland, OR 97217",
+    "neighborhood": "Kenton",
+    "city_section": "North"
+  },
+  "Portland Japanese Garden": {
+    "title": "Portland Japanese Garden",
+    "url": "https://www.portland.gov/parks/portland-japanese-garden",
+    "location": "SW Kingston Drive Portland, OR 97201",
+    "neighborhood": "Arlington Heights",
+    "city_section": "Downtown"
+  },
+  "Portland Memory Garden": {
+    "title": "Portland Memory Garden",
+    "url": "https://www.portland.gov/parks/portland-memory-garden",
+    "location": "SE 104th Avenue and Powell Blvd Portland, OR 97266",
+    "neighborhood": "Powellhurst-Gilbert",
+    "city_section": "SE"
+  },
+  "Portland Tennis Center": {
+    "title": "Portland Tennis Center",
+    "url": "https://www.portland.gov/parks/portland-tennis-center",
+    "location": "324 NE 12th Avenue Portland, OR 97232",
+    "neighborhood": "Kerns",
+    "city_section": "NE"
+  },
+  "Portsmouth Community Garden": {
+    "title": "Portsmouth Community Garden",
+    "url": "https://www.portland.gov/parks/portsmouth-community-garden",
+    "location": "8702 N Courtenay Avenue Portland, OR 97203",
+    "neighborhood": "Portsmouth",
+    "city_section": "North"
+  },
+  "Portsmouth Park": {
+    "title": "Portsmouth Park",
+    "url": "https://www.portland.gov/parks/portsmouth-park",
+    "location": "N Stanford Avenue and Depauw Street Portland, OR 97203",
+    "neighborhood": "Portsmouth",
+    "city_section": "North"
+  },
+  "Powell Butte Community Garden": {
+    "title": "Powell Butte Community Garden",
+    "url": "https://www.portland.gov/parks/powell-butte-community-garden",
+    "location": "3615 SE 174th Avenue Portland, OR 97236",
+    "neighborhood": "Centennial",
+    "city_section": "East"
+  },
+  "Powell Butte Nature Park": {
+    "title": "Powell Butte Nature Park",
+    "url": "https://www.portland.gov/parks/powell-butte-nature-park",
+    "location": "16160 SE Powell Blvd Portland, OR 97236",
+    "neighborhood": "Pleasant Valley",
+    "city_section": "East"
+  },
+  "Powell Park": {
+    "title": "Powell Park",
+    "url": "https://www.portland.gov/parks/powell-park",
+    "location": "SE 26th Avenue and Powell Blvd Portland, OR 97202",
+    "neighborhood": "Brooklyn",
+    "city_section": "SE"
+  },
+  "Powers Marine Park": {
+    "title": "Powers Marine Park",
+    "url": "https://www.portland.gov/parks/powers-marine-park",
+    "location": "S Macadam Avenue south of the Sellwood Bridge Portland, OR 97219",
+    "neighborhood": "Unclaimed",
+    "city_section": "SW"
+  },
+  "Raymond Park": {
+    "title": "Raymond Park",
+    "url": "https://www.portland.gov/parks/raymond-park",
+    "location": "SE 118th Avenue and Raymond Street Portland, OR 97266",
+    "neighborhood": "Powellhurst-Gilbert",
+    "city_section": "East"
+  },
+  "RedTail Golf Course": {
+    "title": "RedTail Golf Course",
+    "url": "https://www.portland.gov/parks/redtail-golf-course",
+    "location": "8200 SW Scholls Ferry Road Portland, OR 97005",
+    "neighborhood": null,
+    "city_section": "SW"
+  },
+  "Rieke Field": {
+    "title": "Rieke Field",
+    "url": "https://www.portland.gov/parks/rieke-field",
+    "location": null,
+    "neighborhood": "Hillsdale",
+    "city_section": "SW"
+  },
+  "Rigler Community Garden": {
+    "title": "Rigler Community Garden",
+    "url": "https://www.portland.gov/parks/rigler-community-garden",
+    "location": "NE 52nd Avenue and Prescott Street Portland, OR 97218",
+    "neighborhood": "Cully",
+    "city_section": "NE"
+  },
+  "Rocky Butte Natural Area": {
+    "title": "Rocky Butte Natural Area",
+    "url": "https://www.portland.gov/parks/rocky-butte-natural-area",
+    "location": "NE Rocky Butte Road Portland, OR 97220",
+    "neighborhood": "Madison South",
+    "city_section": "NE"
+  },
+  "Rose City Golf Course": {
+    "title": "Rose City Golf Course",
+    "url": "https://www.portland.gov/parks/rose-city-golf-course",
+    "location": "2200 NE 71st Avenue Portland, OR 97213",
+    "neighborhood": "Madison South",
+    "city_section": "NE"
+  },
+  "Rose City Park": {
+    "title": "Rose City Park",
+    "url": "https://www.portland.gov/parks/rose-city-park",
+    "location": "NE 62nd Avenue and Tillamook Street Portland, OR 97213",
+    "neighborhood": "Madison South",
+    "city_section": "NE"
+  },
+  "Roseway Heights SUN Community School": {
+    "title": "Roseway Heights SUN Community School",
+    "url": "https://www.portland.gov/parks/roseway-heights-sun-community-school",
+    "location": "7334 NE Siskiyou Street Portland, OR 97213",
+    "neighborhood": "Roseway",
+    "city_section": "NE"
+  },
+  "Ross Island Natural Area": {
+    "title": "Ross Island Natural Area",
+    "url": "https://www.portland.gov/parks/ross-island-natural-area",
+    "location": "Island Portland, OR",
+    "neighborhood": "Brooklyn",
+    "city_section": "SE"
+  },
+  "Sabin Community Garden": {
+    "title": "Sabin Community Garden",
+    "url": "https://www.portland.gov/parks/sabin-community-garden",
+    "location": "NE 19th Avenue and Skidmore Street Portland, OR 97212",
+    "neighborhood": "Sabin",
+    "city_section": "NE"
+  },
+  "Sacajawea Park": {
+    "title": "Sacajawea Park",
+    "url": "https://www.portland.gov/parks/sacajawea-park",
+    "location": "NE 75th and Roselawn Street Portland, OR 97218",
+    "neighborhood": "Cully",
+    "city_section": "NE"
+  },
+  "SE 150th and Division Street Community Garden": {
+    "title": "SE 150th and Division Street Community Garden",
+    "url": "https://www.portland.gov/parks/se-150th-and-division-street-community-garden",
+    "location": "SE 148th Avenue and Taggart Street Portland, OR 97236",
+    "neighborhood": "Centennial",
+    "city_section": "East"
+  },
+  "Sellwood Community Center": {
+    "title": "Sellwood Community Center",
+    "url": "https://www.portland.gov/parks/sellwood-community-center",
+    "location": "1436 SE Spokane Street Portland, OR 97202",
+    "neighborhood": "Sellwood-Moreland",
+    "city_section": "SE"
+  },
+  "Sellwood Community Garden": {
+    "title": "Sellwood Community Garden",
+    "url": "https://www.portland.gov/parks/sellwood-community-garden",
+    "location": "2033 SE Harney Street Portland, OR 97202",
+    "neighborhood": "Sellwood-Moreland",
+    "city_section": "SE"
+  },
+  "Sellwood Outdoor Pool": {
+    "title": "Sellwood Outdoor Pool",
+    "url": "https://www.portland.gov/parks/sellwood-outdoor-pool",
+    "location": "7951 SE 7th Avenue Portland, OR 97202",
+    "neighborhood": "Sellwood-Moreland",
+    "city_section": "SE"
+  },
+  "Sellwood Park": {
+    "title": "Sellwood Park",
+    "url": "https://www.portland.gov/parks/sellwood-park",
+    "location": "SE 7th Avenue and Miller Street Portland, OR 97202",
+    "neighborhood": "Sellwood-Moreland",
+    "city_section": "SE"
+  },
+  "Sellwood Riverfront Park": {
+    "title": "Sellwood Riverfront Park",
+    "url": "https://www.portland.gov/parks/sellwood-riverfront-park",
+    "location": "SE Spokane Street and Oaks Parkway Portland, OR 97202",
+    "neighborhood": "Sellwood-Moreland",
+    "city_section": "SE"
+  },
+  "Senns Community Garden": {
+    "title": "Senns Community Garden",
+    "url": "https://www.portland.gov/parks/senns-community-garden",
+    "location": "NE 112th Avenue and Prescott Street Portland, OR 97220",
+    "neighborhood": "Parkrose",
+    "city_section": "East"
+  },
+  "Senns Dairy Park": {
+    "title": "Senns Dairy Park",
+    "url": "https://www.portland.gov/parks/senns-dairy-park",
+    "location": "11206 NE Prescott Street Portland, OR 97220",
+    "neighborhood": "Parkrose",
+    "city_section": "East"
+  },
+  "Sewallcrest Community Garden": {
+    "title": "Sewallcrest Community Garden",
+    "url": "https://www.portland.gov/parks/sewallcrest-community-garden",
+    "location": "SE 31st Avenue and Market Street Portland, OR 97214",
+    "neighborhood": "Richmond",
+    "city_section": "SE"
+  },
+  "Sewallcrest Park": {
+    "title": "Sewallcrest Park",
+    "url": "https://www.portland.gov/parks/sewallcrest-park",
+    "location": "SE 31st Avenue and Market Street Portland, OR 97214",
+    "neighborhood": "Richmond",
+    "city_section": "SE"
+  },
+  "Sitton SUN Community School": {
+    "title": "Sitton SUN Community School",
+    "url": "https://www.portland.gov/parks/sitton-sun-community-school",
+    "location": "9930 N Smith Street Portland, OR 97203",
+    "neighborhood": "St. Johns",
+    "city_section": "North"
+  },
+  "South Park Blocks": {
+    "title": "South Park Blocks",
+    "url": "https://www.portland.gov/parks/south-park-blocks",
+    "location": "SW Park Avenue from Salmon Street to Jackson Street Portland, OR 97205",
+    "neighborhood": "Portland Downtown",
+    "city_section": "Downtown"
+  },
+  "South Waterfront Greenway": {
+    "title": "South Waterfront Greenway",
+    "url": "https://www.portland.gov/parks/south-waterfront-greenway",
+    "location": "838 S Curry St. Portland, OR",
+    "neighborhood": "South Portland",
+    "city_section": "SW"
+  },
+  "South Waterfront Park": {
+    "title": "South Waterfront Park",
+    "url": "https://www.portland.gov/parks/south-waterfront-park",
+    "location": "S River Dr. and S Montgomery St. Portland, OR 97201",
+    "neighborhood": null,
+    "city_section": "Downtown"
+  },
+  "Southwest Community Center": {
+    "title": "Southwest Community Center",
+    "url": "https://www.portland.gov/parks/southwest-community-center",
+    "location": "6820 SW 45th Avenue Portland, OR 97219",
+    "neighborhood": "Multnomah",
+    "city_section": "SW"
+  },
+  "Southwest Indoor Pool": {
+    "title": "Southwest Indoor Pool",
+    "url": "https://www.portland.gov/parks/southwest-indoor-pool",
+    "location": "6820 SW 45th Avenue Portland, OR 97219",
+    "neighborhood": "Multnomah",
+    "city_section": "SW"
+  },
+  "Spring Garden Park": {
+    "title": "Spring Garden Park",
+    "url": "https://www.portland.gov/parks/spring-garden-park",
+    "location": "3332 SW Spring Garden Street Portland, OR 97219",
+    "neighborhood": "Multnomah",
+    "city_section": "SW"
+  },
+  "Springwater Corridor": {
+    "title": "Springwater Corridor",
+    "url": "https://www.portland.gov/parks/springwater-corridor",
+    "location": "SE Ivon Street to Boring, Oregon Portland, OR",
+    "neighborhood": null,
+    "city_section": "SE"
+  },
+  "St. Johns Community Center": {
+    "title": "St. Johns Community Center",
+    "url": "https://www.portland.gov/parks/st-johns-community-center",
+    "location": "8427 N Central Street Portland, OR 97203",
+    "neighborhood": "St. Johns",
+    "city_section": "North"
+  },
+  "St. Johns Park": {
+    "title": "St. Johns Park",
+    "url": "https://www.portland.gov/parks/st-johns-park",
+    "location": "8427 N Central Street Portland, OR 97203",
+    "neighborhood": "St. Johns",
+    "city_section": "North"
+  },
+  "Stark Street Island Park": {
+    "title": "Stark Street Island Park",
+    "url": "https://www.portland.gov/parks/stark-street-island-park",
+    "location": "SE 106th Avenue and Stark Street Portland, OR 97216",
+    "neighborhood": "Mill Park",
+    "city_section": "East"
+  },
+  "Stephens Creek Nature Park": {
+    "title": "Stephens Creek Nature Park",
+    "url": "https://www.portland.gov/parks/stephens-creek-nature-park",
+    "location": "SW Bertha Blvd and Chestnut Street Portland, OR 97219",
+    "neighborhood": "Hillsdale",
+    "city_section": "SW"
+  },
+  "Sumner Street Community Garden": {
+    "title": "Sumner Street Community Garden",
+    "url": "https://www.portland.gov/parks/sumner-street-community-garden",
+    "location": "4624 NE Sumner Street Portland, OR 97218",
+    "neighborhood": "Cully",
+    "city_section": "NE"
+  },
+  "Sumner-Albina Park": {
+    "title": "Sumner-Albina Park",
+    "url": "https://www.portland.gov/parks/sumner-albina-park",
+    "location": "5134-5138 N Albina Street Portland, OR 97217",
+    "neighborhood": "Humboldt",
+    "city_section": "NE"
+  },
+  "Sunnyside School Park": {
+    "title": "Sunnyside School Park",
+    "url": "https://www.portland.gov/parks/sunnyside-school-park",
+    "location": "SE 34th Avenue and Taylor Street Portland, OR 97214",
+    "neighborhood": "Sunnyside",
+    "city_section": "SE"
+  },
+  "Sylvania Park": {
+    "title": "Sylvania Park",
+    "url": "https://www.portland.gov/parks/sylvania-park",
+    "location": "SW 53rd Avenue and Coronado Street Portland, OR 97219",
+    "neighborhood": "Far Southwest",
+    "city_section": "SW"
+  },
+  "Tanner Springs Park": {
+    "title": "Tanner Springs Park",
+    "url": "https://www.portland.gov/parks/tanner-springs-park",
+    "location": "NW 10th Avenue and Marshall Street Portland, OR 97209",
+    "neighborhood": "Pearl District",
+    "city_section": "Downtown"
+  },
+  "Terwilliger Parkway": {
+    "title": "Terwilliger Parkway",
+    "url": "https://www.portland.gov/parks/terwilliger-parkway",
+    "location": "SW 6th Avenue - Sheridan Street to Slavin Street Portland, OR 97201",
+    "neighborhood": "Homestead",
+    "city_section": "SW"
+  },
+  "The Fields Park": {
+    "title": "The Fields Park",
+    "url": "https://www.portland.gov/parks/fields-park",
+    "location": "1099 NW Overton Street Portland, OR 97209",
+    "neighborhood": "Pearl District",
+    "city_section": "NW"
+  },
+  "Thompson Park": {
+    "title": "Thompson Park",
+    "url": "https://www.portland.gov/parks/thompson-park",
+    "location": "NE 138th Avenue and Thompson Street Portland, OR 97230",
+    "neighborhood": "Russell",
+    "city_section": "East"
+  },
+  "Tideman Johnson Natural Area": {
+    "title": "Tideman Johnson Natural Area",
+    "url": "https://www.portland.gov/parks/tideman-johnson-natural-area",
+    "location": "SE 37th Avenue and Tenino Street Portland, OR 97202",
+    "neighborhood": "Ardenwald-Johnson Creek",
+    "city_section": "SE"
+  },
+  "Trenton Park": {
+    "title": "Trenton Park",
+    "url": "https://www.portland.gov/parks/trenton-park",
+    "location": "N Hamlin Avenue and Trenton Street Portland, OR 97217",
+    "neighborhood": "Kenton",
+    "city_section": "North"
+  },
+  "Two Plum Park": {
+    "title": "Two Plum Park",
+    "url": "https://www.portland.gov/parks/two-plum-park",
+    "location": "NE 7th Avenue between Shaver Street and Mason Street Portland, OR 97212",
+    "neighborhood": "Sabin",
+    "city_section": "NE"
+  },
+  "University Park": {
+    "title": "University Park",
+    "url": "https://www.portland.gov/parks/university-park",
+    "location": "9009 N Foss Avenue Portland, OR 97217",
+    "neighborhood": "Portsmouth",
+    "city_section": "North"
+  },
+  "Unthank Park": {
+    "title": "Unthank Park",
+    "url": "https://www.portland.gov/parks/unthank-park",
+    "location": "510 N Shaver Street Portland, OR 97227",
+    "neighborhood": "Boise",
+    "city_section": "NE"
+  },
+  "Ventura Park": {
+    "title": "Ventura Park",
+    "url": "https://www.portland.gov/parks/ventura-park",
+    "location": "460 SE 113th Avenue Portland, OR 97216",
+    "neighborhood": "Hazelwood",
+    "city_section": "East"
+  },
+  "Verdell Burdine Rutherford Park": {
+    "title": "Verdell Burdine Rutherford Park",
+    "url": "https://www.portland.gov/parks/verdell-burdine-rutherford-park",
+    "location": "SE 165th Avenue and Market Street Portland, OR 97233",
+    "neighborhood": "Centennial",
+    "city_section": "East"
+  },
+  "Vermont Hills Community Garden": {
+    "title": "Vermont Hills Community Garden",
+    "url": "https://www.portland.gov/parks/vermont-hills-community-garden",
+    "location": "6053 SW 55th Drive Portland, OR 97221",
+    "neighborhood": "Hayhurst",
+    "city_section": "SW"
+  },
+  "Vestal Community Garden": {
+    "title": "Vestal Community Garden",
+    "url": "https://www.portland.gov/parks/vestal-community-garden",
+    "location": "NE 81st Avenue and Everett Street Portland, OR 97215",
+    "neighborhood": "Montavilla",
+    "city_section": "NE"
+  },
+  "Vietnam Veterans of Oregon Memorial": {
+    "title": "Vietnam Veterans of Oregon Memorial",
+    "url": "https://www.portland.gov/parks/vietnam-veterans-oregon-memorial",
+    "location": "4000 SW Canyon Road Portland, OR 97210",
+    "neighborhood": "Arlington Heights",
+    "city_section": "Downtown"
+  },
+  "Wallace Park": {
+    "title": "Wallace Park",
+    "url": "https://www.portland.gov/parks/wallace-park",
+    "location": "NW 25th Avenue and Raleigh Street Portland, OR 97210",
+    "neighborhood": "Northwest District",
+    "city_section": "Downtown"
+  },
+  "Washington Park": {
+    "title": "Washington Park",
+    "url": "https://www.portland.gov/parks/washington-park",
+    "location": "Head of SW Park Place Portland, OR 97210",
+    "neighborhood": "Arlington Heights",
+    "city_section": "Downtown"
+  },
+  "Washington Park - International Rose Test Garden": {
+    "title": "Washington Park - International Rose Test Garden",
+    "url": "https://www.portland.gov/parks/washington-park-international-rose-test-garden",
+    "location": "400 SW Kingston Avenue Portland, OR 97210",
+    "neighborhood": "Arlington Heights",
+    "city_section": "Downtown"
+  },
+  "Water and Gibbs Community Garden": {
+    "title": "Water and Gibbs Community Garden",
+    "url": "https://www.portland.gov/parks/water-and-gibbs-community-garden",
+    "location": "S Gibbs between Naito Parkway and Water Avenue Portland, OR 97201",
+    "neighborhood": "South Portland",
+    "city_section": "SW"
+  },
+  "Wellington Park": {
+    "title": "Wellington Park",
+    "url": "https://www.portland.gov/parks/wellington-park",
+    "location": "NE 66th Avenue and Mason Street Portland, OR 97218",
+    "neighborhood": "Roseway",
+    "city_section": "NE"
+  },
+  "West Powellhurst Park": {
+    "title": "West Powellhurst Park",
+    "url": "https://www.portland.gov/parks/west-powellhurst-park",
+    "location": "SE 115th Avenue and Division Street Portland, OR 97266",
+    "neighborhood": "Powellhurst-Gilbert",
+    "city_section": "East"
+  },
+  "Westmoreland Park": {
+    "title": "Westmoreland Park",
+    "url": "https://www.portland.gov/parks/westmoreland-park",
+    "location": "SE McLoughlin Blvd and Bybee Blvd Portland, OR 97202",
+    "neighborhood": null,
+    "city_section": "SE"
+  },
+  "Whitaker Ponds Natural Area": {
+    "title": "Whitaker Ponds Natural Area",
+    "url": "https://www.portland.gov/parks/whitaker-ponds-natural-area",
+    "location": "7040 NE 47th Avenue Portland, OR 97218",
+    "neighborhood": "Cully",
+    "city_section": "NE"
+  },
+  "Wilkes Park": {
+    "title": "Wilkes Park",
+    "url": "https://www.portland.gov/parks/wilkes-park",
+    "location": "3655 NE 154th Avenue Portland, OR 97230",
+    "neighborhood": "Wilkes",
+    "city_section": "East"
+  },
+  "Willamette Moorage Park": {
+    "title": "Willamette Moorage Park",
+    "url": "https://www.portland.gov/parks/willamette-moorage-park",
+    "location": "7720 S Macadam Ave. Portland, OR 97219",
+    "neighborhood": "South Portland",
+    "city_section": "SW"
+  },
+  "Willamette Park": {
+    "title": "Willamette Park",
+    "url": "https://www.portland.gov/parks/willamette-park",
+    "location": "S Macadam Avenue and Nebraska Street Portland, OR 97219",
+    "neighborhood": "South Portland",
+    "city_section": "SW"
+  },
+  "Wilshire Park": {
+    "title": "Wilshire Park",
+    "url": "https://www.portland.gov/parks/wilshire-park",
+    "location": "NE 33rd Avenue and Skidmore Street Portland, OR 97211",
+    "neighborhood": "Beaumont-Wilshire",
+    "city_section": "NE"
+  },
+  "Woodlawn Community Garden": {
+    "title": "Woodlawn Community Garden",
+    "url": "https://www.portland.gov/parks/woodlawn-community-garden",
+    "location": "7098 NE 11th Avenue Portland, OR 97211",
+    "neighborhood": "Woodlawn",
+    "city_section": "NE"
+  },
+  "Woodlawn Park": {
+    "title": "Woodlawn Park",
+    "url": "https://www.portland.gov/parks/woodlawn-park",
+    "location": "NE 13th Avenue and Dekum Street Portland, OR 97211",
+    "neighborhood": "Woodlawn",
+    "city_section": "NE"
+  },
+  "Woods Memorial Natural Area": {
+    "title": "Woods Memorial Natural Area",
+    "url": "https://www.portland.gov/parks/woods-memorial-natural-area",
+    "location": "SW 45th Avenue and Woods Street Portland, OR 97219",
+    "neighborhood": "Ashcreek",
+    "city_section": "SW"
+  },
+  "Woodstock Community Center": {
+    "title": "Woodstock Community Center",
+    "url": "https://www.portland.gov/parks/woodstock-community-center",
+    "location": "5905 SE 43rd Avenue Portland, OR 97206",
+    "neighborhood": "Woodstock",
+    "city_section": "SE"
+  },
+  "Woodstock Park": {
+    "title": "Woodstock Park",
+    "url": "https://www.portland.gov/parks/woodstock-park",
+    "location": "SE 47th Avenue and Steele Street Portland, OR 97206",
+    "neighborhood": "Woodstock",
+    "city_section": "SE"
+  }
+}
