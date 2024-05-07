@@ -7,5 +7,8 @@ pull:
 sync:
 	.venv/bin/python sync.py
 
+visited:
+	.venv/bin/python visited.py
+
 requirements:
 	.venv/bin/pip freeze > requirements.txt
