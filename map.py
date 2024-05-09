@@ -76,6 +76,7 @@ with open("map.html", "w", encoding="utf-8") as f:
         """
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
     crossorigin=""/>
@@ -83,6 +84,14 @@ with open("map.html", "w", encoding="utf-8") as f:
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
     crossorigin=""></script>
 <style>
+    body {
+        padding: 0;
+        margin: 0;
+    }
+    html, body, #map {
+        height: 100%%;
+        width: 100vw;
+    }
     #map { height: 100%%; }
 </style>
 </head>
