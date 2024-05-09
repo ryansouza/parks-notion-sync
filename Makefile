@@ -10,5 +10,8 @@ sync:
 visited:
 	.venv/bin/python visited.py
 
+map:
+	.venv/bin/python map.py
+
 requirements:
 	.venv/bin/pip freeze > requirements.txt
